@@ -1,0 +1,18 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Thoughts. Ideas. Ramblings.",
+	"icon": "https://micro.blog/tomralph/avatar.jpg",
+	"home_page_url": "https://tomralph.io/",
+	"feed_url": "https://tomralph.io/feed.json",
+	"items": [
+		
+			{
+				"id": "http://tomralph.micro.blog/2022/11/30/sunday-run-thoughts.html",
+				
+				"content_html": "<p>Sunday run thoughts&hellip;</p>\n<p>Frozen dirt is hard. Snow covered frozen dirt is soft and wonderful. Also the dog (Zoey) can go longer when it is 0C outside. \n[<!-- raw HTML omitted -->]</p>\n",
+				"content_text": "Sunday run thoughts...\r\n\r\nFrozen dirt is hard. Snow covered frozen dirt is soft and wonderful. Also the dog (Zoey) can go longer when it is 0C outside. \r\n[<img src=\"uploads/2022/40a4e9cd21.jpg\" width=\"600\" height=\"800\" alt=\"\" />]\n",
+				"date_published": "2022-11-30T07:15:18-07:00",
+				"url": "https://tomralph.io/2022/11/30/sunday-run-thoughts.html"
+			}
+	]
+}
